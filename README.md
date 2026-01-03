@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Ertyu007 👋
 
-<!--
-**ertyu007/ertyu007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | Future Network & Security Engineer  
+💻 Interested in Linux, Networking, and Cybersecurity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+- Studying **IT / Computer Systems**
+- Learning **Networking fundamentals (TCP/IP, Subnetting, VLAN)**
+- Hands-on with **Linux & basic Security labs**
+- Interested in **Network Engineering & Cybersecurity**
+
+---
+
+## 🛠 Technical Skills
+
+### Programming
+- Python
+- C
+
+### Networking
+- TCP/IP
+- Subnetting
+- VLAN
+- Static Routing
+- DHCP / NAT
+
+### Systems
+- Linux (Ubuntu / Debian)
+- Windows
+
+### Tools
+- Git & GitHub
+- VS Code
+- Wireshark
+- VirtualBox / VMware
+
+---
+
+## 📂 Projects
+- 🖧 **Network Lab** – VLAN & Routing Simulation  
+- 🐍 **Python Scripts** – Automation / Network Tools  
+- 🔐 **Security Basics** – SSH, Firewall, System Hardening  
+
+> More projects in progress.
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ertyu007&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ertyu007&layout=compact)
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/ertyu007
