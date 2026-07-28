@@ -27,7 +27,7 @@
 ```ts
 const thanaphat = {
   nickname: "MK",
-  role: "Full-Stack Developer & IoT Enthusiast",
+  role: "Junior Developer & IoT Enthusiast",
   education: "Digital Business Technology Student",
   interests: [
     "Web Development",
@@ -58,7 +58,7 @@ My long-term goal is to grow in **Computer Engineering**, especially **network s
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c&perline=6" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,php&perline=7" alt="Programming languages" />
 
 ### Web & Backend
 
