@@ -286,22 +286,17 @@ The interesting part is usually **connecting everything together**.
 <div align="center">
 
 <a href="https://github.com/ertyu007">
-  <img src="https://github-readme-stats.vercel.app/api?username=ertyu007&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=86400" height="170" />
+  <img src="https://img.shields.io/badge/GitHub-ertyu007-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://github.com/ertyu007">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertyu007&layout=compact&hide_border=true&theme=transparent&langs_count=6&cache_seconds=86400" height="170" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
 
 <a href="https://github.com/ertyu007?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br><br>
+
+> Building in public.  
+> Learning by making things.
 
 </div>
 
