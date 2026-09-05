@@ -285,13 +285,23 @@ The interesting part is usually **connecting everything together**.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ertyu007&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<a href="https://github.com/ertyu007">
+  <img src="https://github-readme-stats.vercel.app/api?username=ertyu007&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=86400" height="170" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertyu007&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+<a href="https://github.com/ertyu007">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertyu007&layout=compact&hide_border=true&theme=transparent&langs_count=6&cache_seconds=86400" height="170" />
+</a>
 
-<br><br>
+</div>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ertyu007&theme=github-compact&hide_border=true" />
+<br>
+
+<div align="center">
+
+<a href="https://github.com/ertyu007?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_MY_REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
