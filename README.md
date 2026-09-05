@@ -1,213 +1,324 @@
-[README.md](https://github.com/user-attachments/files/30440643/README.md)
-<!--
-  Profile README for https://github.com/ertyu007
-  Replace this file in the repository: ertyu007/ertyu007
--->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:6366F1,100:A855F7&height=230&section=header&text=Thanaphat%20Karachak&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20IoT%20Enthusiast%20%E2%80%A2%20Creative%20Technologist&descAlignY=56&descSize=18" alt="Thanaphat Karachak profile banner" />
+# THANAPHAT
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=760&height=55&lines=Building+hardware+%2B+software+solutions;Web+Development+%E2%80%A2+IoT+%E2%80%A2+Computer+Vision;Networking+%E2%80%A2+Automation+%E2%80%A2+Creative+Engineering;Learn.+Build.+Share.+Repeat." alt="Typing introduction" />
+### Developer · AI · IoT · Computer Vision
+
+**I build software, connect hardware, and turn ideas into working systems.**
+
+<br>
+
+<a href="https://github.com/ertyu007">
+  <img src="https://img.shields.io/github/followers/ertyu007?style=flat-square&label=Followers" />
 </a>
-
-<p>
-  <a href="https://github.com/ertyu007?tab=followers"><img src="https://img.shields.io/github/followers/ertyu007?label=Followers&style=for-the-badge&logo=github&color=6366F1" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ertyu007&style=for-the-badge&color=14B8A6&label=PROFILE+VIEWS" alt="Profile views" />
-  <a href="mailto:ertyualexs04@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<a href="https://github.com/ertyu007?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-18181B?style=flat-square" />
+</a>
+<a href="mailto:ertyualexs04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-18181B?style=flat-square" />
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## `whoami`
 
 ```ts
 const thanaphat = {
+  name: "Thanaphat",
   nickname: "MK",
-  role: "Junior Developer & IoT Enthusiast",
-  education: "Digital Business Technology Student",
-  interests: [
+
+  focus: [
     "Web Development",
-    "IoT & Embedded Systems",
+    "Artificial Intelligence",
     "Computer Vision",
-    "Networking & Internet Infrastructure",
-    "Digital Image Processing",
+    "IoT & Embedded Systems",
+    "Networking"
   ],
-  mission: "Turn practical ideas into useful hardware–software products",
-  mindset: "Learn → Build → Test → Improve → Share",
+
+  philosophy:
+    "Build things that solve real problems.",
+
+  workflow:
+    "Idea → Prototype → Test → Improve → Share"
 };
 ```
 
-I enjoy connecting **code, electronics, networks, and design** to build practical projects.  
-My long-term goal is to grow in **Computer Engineering**, especially **network systems and internet infrastructure**.
+I'm a **vocational technology student and developer** who enjoys working across the boundary between software and hardware.
 
-- 🎓 Digital Business Technology student
-- 🧠 Interested in full-stack engineering, computer vision, networking, and embedded systems
-- 🔌 Hands-on with ESP32, Arduino, Micro:bit, sensors, circuits, and network equipment
-- 🎬 Tech content creator on TikTok **[@ertyu0075](https://www.tiktok.com/@ertyu0075)**
-- 🇹🇭 Building and learning from Thailand
+I like taking an idea, building a prototype, connecting the components together, and turning it into something people can actually use.
+
+My interests sit around:
+
+* Web applications & full-stack development
+* AI & Computer Vision
+* ESP32 / Arduino / embedded systems
+* IoT & automation
+* Networking & infrastructure
+* Educational technology & interactive applications
 
 ---
 
-## 🧰 Tech Stack
+## `what I build`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01` — Software
+
+Web applications, interactive systems, games, dashboards and developer tools.
+
+**Stack**
+
+`HTML` `CSS` `JavaScript` `TypeScript`
+`React` `Vite` `Tailwind` `PHP` `MySQL`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `02` — AI / Computer Vision
+
+Computer vision experiments and practical AI systems.
+
+**Working with**
+
+`Python` `OpenCV` `YOLO` `MediaPipe`
+`Face Recognition` `Image Processing`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `03` — IoT / Embedded
+
+Hardware prototypes that connect sensors, controllers and software.
+
+**Working with**
+
+`ESP32` `Arduino` `Micro:bit`
+`Sensors` `Relay` `MQTT` `Telegram Bot`
+
+</td>
+
+<td width="50%" valign="top">
+
+### `04` — Networking
+
+Hands-on network infrastructure and troubleshooting.
+
+**Experience**
+
+`LAN` `RJ45` `Access Point`
+`Network Design` `UDP` `Network Testing`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `featured projects`
+
+> A few projects that represent how I like to learn and build.
+
+### `SkillProof AI`
+
+**AI-powered proof-of-capability platform**
+
+A concept focused on helping people demonstrate what they can actually do through projects, evidence and practical skills.
+
+**Focus:** `AI` `Web` `Portfolio` `Skills`
+
+---
+
+### `Smart Farm / IoT Projects`
+
+**Connected hardware for real-world problems**
+
+Projects involving ESP32, environmental sensors, automation and remote monitoring.
+
+Examples include smart farming, soil monitoring and automatic control systems.
+
+**Focus:** `ESP32` `IoT` `Sensors` `Automation`
+
+---
+
+### `Computer Vision Projects`
+
+**Teaching computers to understand visual information**
+
+Experiments and applications involving image processing, object detection, face recognition and automated visual analysis.
+
+**Focus:** `Python` `OpenCV` `YOLO` `Computer Vision`
+
+---
+
+### `Math Match Ultimate`
+
+**A browser-based educational game**
+
+A learning-focused game with difficulty modes, rewards, achievements, themes and progression mechanics.
+
+**Focus:** `JavaScript` `Game Development` `Gamification`
+
+---
+
+### `Portfolio`
+
+**My personal developer portfolio**
+
+A continuously evolving space for showcasing projects, experiments, certificates and development work.
+
+**Focus:** `Web Development` `UI` `Animation`
+
+---
+
+## `tech stack`
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,php&perline=7" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,php" />
 
-### Web & Backend
+### Web
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,supabase&perline=6" alt="Web and backend technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express" />
 
-### Hardware, AI & Systems
+### AI / Systems
 
-<img src="https://skillicons.dev/icons?i=arduino,opencv,linux,ubuntu,kali&perline=5" alt="Hardware AI and systems tools" />
+<img src="https://skillicons.dev/icons?i=python,opencv,linux,ubuntu,arduino" />
 
-<br />
+### Tools
 
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-<img src="https://img.shields.io/badge/Micro%3Abit-00ED00?style=for-the-badge&logo=microbit&logoColor=white" alt="Microbit" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 
-### Tools & Creative Work
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Development tools" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
-<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects" />
-<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" alt="Adobe Lightroom" />
+`ESP32` · `Arduino` · `Micro:bit` · `MQTT` · `UDP`
 
 </div>
 
-> **Also working with:** ESP32, Micro:bit, MQTT, UDP, Telegram Bot API, Linux servers, circuit design, RJ45/network testing, computer maintenance, After Effects, and Lightroom.
+---
+
+## `currently`
+
+```text
+BUILDING
+├── AI & Computer Vision projects
+├── IoT / ESP32 prototypes
+├── Web applications
+└── Open-source experiments
+
+LEARNING
+├── Computer Engineering
+├── Network Systems
+├── Internet Infrastructure
+├── AI / Machine Learning
+└── Software Architecture
+
+EXPLORING
+├── Edge AI
+├── Smart Agriculture
+├── Automation
+└── AI-powered developer tools
+```
 
 ---
 
-## 🚀 Featured Work
+## `engineering mindset`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 ertyux</h3>
-      <p align="center">My latest portfolio repository and the home for my evolving developer showcase.</p>
-      <p align="center">
-        <a href="https://github.com/ertyu007/ertyux"><strong>View Repository →</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 Math Match Ultimate</h3>
-      <p align="center">A browser-based math game with difficulty modes, rewards, themes, achievements, and progression systems.</p>
-      <p align="center">
-        <a href="https://github.com/ertyu007/MathMatchUltimate"><strong>View Repository →</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">✨ Portfolio by Thanaphat</h3>
-      <p align="center">A responsive portfolio with dark mode, animation, project engagement stats, and an animated certificate showcase.</p>
-      <p align="center">
-        <a href="https://github.com/ertyu007/PortfoliobyThanaphat"><strong>Source Code</strong></a>
-        ·
-        <a href="https://ertyuthanaphat.netlify.app"><strong>Live Demo</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 Nongping Smart Farm Bot</h3>
-      <p align="center">A Python Discord bot project focused on smart-farm communication and automation.</p>
-      <p align="center">
-        <a href="https://github.com/ertyu007/nongping_bot"><strong>View Repository →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+I don't want to only **write code**.
+
+I want to understand how the whole system works.
+
+```text
+             ┌──────────────┐
+             │     IDEA     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   DESIGN     │
+             └──────┬───────┘
+                    ↓
+          ┌─────────┴─────────┐
+          ↓                   ↓
+     SOFTWARE              HARDWARE
+          │                   │
+          └─────────┬─────────┘
+                    ↓
+             ┌──────────────┐
+             │    TEST      │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   IMPROVE    │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │    SHARE     │
+             └──────────────┘
+```
+
+The interesting part is usually **connecting everything together**.
+
+---
+
+## `achievements`
+
+* 🥇 Gold Medal — Intermediate Robotics Competition
+* Built and tested ESP32 / Arduino based prototypes
+* Designed and installed network layouts and access points
+* Worked on computer vision and image-processing projects
+* Developed educational games and interactive web applications
+* Created technical media and visual content
+* Participated in technology, leadership and analytical-thinking activities
+
+---
+
+## `github`
 
 <div align="center">
-  <a href="https://github.com/ertyu007/chem-lab-adventure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertyu007&repo=chem-lab-adventure&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Chem Lab Adventure repository card" />
-  </a>
-  <a href="https://github.com/ertyu007/python-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ertyu007&repo=python-projects&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Python Projects repository card" />
-  </a>
-</div>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ertyu007&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-## 🧪 Projects & Engineering Interests
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertyu007&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 
-| Area | What I build |
-|---|---|
-| 🌱 **IoT & Automation** | ESP32-based monitoring, sensor systems, automatic control, Telegram/Discord integrations |
-| 👁️ **Computer Vision** | OMR answer checking, face detection and identification, digital image processing |
-| 🌐 **Web Engineering** | Responsive portfolio sites, interactive applications, modern front-end experiences |
-| 🖧 **Networking** | Network layout, access-point installation, RJ45 testing, UDP monitoring and simulation |
-| 🎮 **Gamification** | Learning games with levels, coins, achievements, rewards, themes, and progression |
+<br><br>
 
----
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ertyu007&theme=github-compact&hide_border=true" />
 
-## 🏆 Achievements & Activities
-
-- 🥇 Gold Medal — Intermediate Robotics Competition, 71st Student Arts and Crafts Fair
-- 🖧 Designed and installed network layouts and access points for school buildings
-- 🎬 Student Council Committee member and video editor for school media production
-- 📜 Participated in national youth leadership and science/analytical-thinking workshops
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ertyu007&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ertyu007&show_icons=true&include_all_commits=true&rank_icon=github&theme=default&hide_border=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ertyu007&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Thanaphat's GitHub statistics" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ertyu007&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ertyu007&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=default&hide_border=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertyu007&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used languages" />
-  </picture>
-</div>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ertyu007&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=F472B6&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
 ---
 
-## 🐍 Contribution Journey
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ertyu007/ertyu007/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ertyu007/ertyu007/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ertyu007/ertyu007/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 📫 Connect With Me
+## `connect`
 
 <div align="center">
 
-<a href="mailto:ertyualexs04@gmail.com"><img src="https://img.shields.io/badge/Email-ertyualexs04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.tiktok.com/@ertyu0075"><img src="https://img.shields.io/badge/TikTok-%40ertyu0075-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-<a href="https://www.facebook.com/ertyu.kukre"><img src="https://img.shields.io/badge/Facebook-Ertyu%20Alex-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.youtube.com/@amazingwuji"><img src="https://img.shields.io/badge/YouTube-%40amazingwuji-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+**Interested in technology, open source, AI, IoT or building something together?**
 
-<br /><br />
+<br>
 
-### 💡 “Build useful things, learn from every failure, and share what works.”
+<a href="mailto:ertyualexs04@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ertyualexs04%40gmail.com-black?style=for-the-badge&logo=gmail" />
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:14B8A6&height=120&section=footer" alt="Footer decoration" />
+<a href="https://www.tiktok.com/@ertyu0075">
+  <img src="https://img.shields.io/badge/TikTok-@ertyu0075-black?style=for-the-badge&logo=tiktok" />
+</a>
+
+<a href="https://www.youtube.com/@amazingwuji">
+  <img src="https://img.shields.io/badge/YouTube-@amazingwuji-black?style=for-the-badge&logo=youtube" />
+</a>
+
+<br><br>
+
+### `Build → Break → Learn → Build again.`
 
 </div>
