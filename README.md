@@ -1,82 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=ertyu007&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%C2%B7%20AI%20%C2%B7%20IoT%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=60" width="100%" />
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=I+build+software%2C+connect+hardware.;Turning+ideas+into+working+systems.;Idea+%E2%86%92+Prototype+%E2%86%92+Test+%E2%86%92+Improve+%E2%86%92+Share" alt="Typing SVG" />
+# ertyu007
+
+**Developer building at the edge of software and hardware**
+
+Web · AI · Computer Vision · IoT · Networking
 
 <br>
 
-<a href="https://github.com/ertyu007">
-  <img src="https://img.shields.io/github/followers/ertyu007?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0F172A&color=2563EB" />
-</a>
-<a href="https://github.com/ertyu007?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-0F172A?style=for-the-badge&logo=githubactions&logoColor=white" />
-</a>
+![Followers](https://img.shields.io/github/followers/ertyu007?style=flat-square&labelColor=111827&color=6366F1)
+![Status](https://img.shields.io/badge/status-building-6366F1?style=flat-square&labelColor=111827)
 
 </div>
 
 <br>
 
-## 👋 About
+```bash
+$ whoami
+ertyu007
 
-```ts
-const ertyu007 = {
-  focus: [
-    "Web Development",
-    "Artificial Intelligence",
-    "Computer Vision",
-    "IoT & Embedded Systems",
-    "Networking",
-  ],
-  philosophy: "Build things that solve real problems.",
-  workflow: "Idea → Prototype → Test → Improve → Share",
-};
+$ cat focus.txt
+web · ai · computer-vision · iot · networking
+
+$ cat workflow.txt
+idea → prototype → test → improve → share
 ```
 
-I enjoy working at the boundary between **software and hardware** — taking an idea, building a prototype, wiring the components together, and turning it into something people can actually use.
+> **Build things that solve real problems.**
 
 <br>
 
-## 🛠️ What I Build
+---
+
+<br>
+
+## What I do
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top" align="center">
 
-### 💻 Software
-Web apps, interactive systems, games, dashboards and developer tools.
-
-`HTML` `CSS` `JavaScript` `TypeScript`
-`React` `Vite` `Tailwind` `PHP` `MySQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ AI / Computer Vision
-Computer vision experiments and practical AI systems.
-
-`Python` `OpenCV` `YOLO` `MediaPipe`
-`Face Recognition` `Image Processing`
+<h3>💻</h3>
+<b>Software</b>
+<br><br>
+<sub>Web apps, games, dashboards and developer tools</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top" align="center">
 
-### 🔌 IoT / Embedded
-Hardware prototypes connecting sensors, controllers and software.
-
-`ESP32` `Arduino` `Micro:bit`
-`Sensors` `Relay` `MQTT` `Telegram Bot`
+<h3>👁️</h3>
+<b>AI & Vision</b>
+<br><br>
+<sub>Detection, recognition and image-processing systems</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" valign="top" align="center">
 
-### 🌐 Networking
-Hands-on network infrastructure and troubleshooting.
+<h3>🔌</h3>
+<b>IoT</b>
+<br><br>
+<sub>Sensors, controllers and automation on real hardware</sub>
 
-`LAN` `RJ45` `Access Point`
-`Network Design` `UDP` `Network Testing`
+</td>
+<td width="25%" valign="top" align="center">
+
+<h3>🌐</h3>
+<b>Networking</b>
+<br><br>
+<sub>LAN design, access points and troubleshooting</sub>
 
 </td>
 </tr>
@@ -84,91 +77,126 @@ Hands-on network infrastructure and troubleshooting.
 
 <br>
 
-## 🚀 Featured Projects
-
-| Project | Description | Focus |
-| :-- | :-- | :-- |
-| **SkillProof AI** | AI-powered platform that helps people prove what they can do through projects, evidence and practical skills. | `AI` `Web` `Portfolio` |
-| **Smart Farm / IoT** | Connected hardware for real-world problems: soil monitoring, environmental sensing and automatic control. | `ESP32` `IoT` `Automation` |
-| **Computer Vision** | Image processing, object detection, face recognition and automated visual analysis. | `Python` `OpenCV` `YOLO` |
-| **Math Match Ultimate** | Browser-based educational game with difficulty modes, rewards, achievements, themes and progression. | `JavaScript` `Gamification` |
-| **Portfolio** | A continuously evolving space for showcasing projects, experiments and development work. | `Web` `UI` `Animation` |
+---
 
 <br>
 
-## ⚡ Tech Stack
+## Stack
+
+**Web**
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / Vision**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+
+**Hardware / Systems**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Micro:bit](https://img.shields.io/badge/micro:bit-00ED00?style=flat-square&logoColor=black)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+<br>
+
+---
+
+<br>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 SkillProof AI
+AI platform that helps people prove what they can actually do through projects, evidence and practical skills.
+
+`AI` `Web` `Portfolio`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Smart Farm
+ESP32-based monitoring and automatic control: soil and environment sensing with remote access.
+
+`ESP32` `IoT` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Computer Vision Lab
+Object detection, face recognition and automated visual analysis experiments.
+
+`Python` `OpenCV` `YOLO`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Math Match Ultimate
+Browser learning game with difficulty modes, achievements, themes and progression.
+
+`JavaScript` `Gamification`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## Now
+
+| Building | Learning | Exploring |
+| :--- | :--- | :--- |
+| AI & vision projects | Computer engineering | Edge AI |
+| ESP32 prototypes | Network systems | Smart agriculture |
+| Web applications | Machine learning | Automation |
+| Open-source experiments | Software architecture | AI developer tools |
+
+<br>
+
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,php,react,nextjs,vite,tailwind,nodejs,express&perline=7" />
-
 <br>
 
-<img src="https://skillicons.dev/icons?i=opencv,arduino,linux,ubuntu,git,github,vscode,mysql&perline=8" />
-
-<br><br>
-
-`ESP32` · `Arduino` · `Micro:bit` · `MQTT` · `UDP`
-
-</div>
-
-<br>
-
-## 🎯 Currently
-
-| 🔨 Building | 📚 Learning | 🔭 Exploring |
-| :-- | :-- | :-- |
-| AI & Computer Vision projects | Computer Engineering | Edge AI |
-| IoT / ESP32 prototypes | Network Systems | Smart Agriculture |
-| Web applications | AI / Machine Learning | Automation |
-| Open-source experiments | Software Architecture | AI-powered developer tools |
-
-<br>
-
-## 🧠 Engineering Mindset
-
-I don't just want to write code — I want to understand how the **whole system** works.
-
-```mermaid
-flowchart LR
-    A([Idea]) --> B[Design]
-    B --> C[Software]
-    B --> D[Hardware]
-    C --> E[Test]
-    D --> E
-    E --> F[Improve]
-    F --> G([Share])
-    F -.-> E
-```
-
-The interesting part is usually **connecting everything together**.
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ertyu007&show_icons=true&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0&icon_color=2563EB&ring_color=2563EB" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertyu007&layout=compact&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/ertyu007">
-  <img src="https://img.shields.io/badge/GitHub-ertyu007-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <a href="https://github.com/ertyu007?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browse_repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-**Build → Break → Learn → Build again.**
+<sub>Build → Break → Learn → Build again.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" width="100%" />
+<br>
 
 </div>
