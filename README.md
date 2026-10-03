@@ -1,117 +1,79 @@
 <div align="center">
 
-# THANAPHAT
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=ertyu007&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%C2%B7%20AI%20%C2%B7%20IoT%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=60" width="100%" />
 
-### Developer · AI · IoT · Computer Vision
-
-**I build software, connect hardware, and turn ideas into working systems.**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=I+build+software%2C+connect+hardware.;Turning+ideas+into+working+systems.;Idea+%E2%86%92+Prototype+%E2%86%92+Test+%E2%86%92+Improve+%E2%86%92+Share" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/ertyu007">
-  <img src="https://img.shields.io/github/followers/ertyu007?style=flat-square&label=Followers" />
+  <img src="https://img.shields.io/github/followers/ertyu007?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0F172A&color=2563EB" />
 </a>
 <a href="https://github.com/ertyu007?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-18181B?style=flat-square" />
-</a>
-<a href="mailto:ertyualexs04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-18181B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Projects-Explore-0F172A?style=for-the-badge&logo=githubactions&logoColor=white" />
 </a>
 
 </div>
 
----
+<br>
 
-## `whoami`
+## 👋 About
 
 ```ts
-const thanaphat = {
-  name: "Thanaphat",
-  nickname: "MK",
-
+const ertyu007 = {
   focus: [
     "Web Development",
     "Artificial Intelligence",
     "Computer Vision",
     "IoT & Embedded Systems",
-    "Networking"
+    "Networking",
   ],
-
-  philosophy:
-    "Build things that solve real problems.",
-
-  workflow:
-    "Idea → Prototype → Test → Improve → Share"
+  philosophy: "Build things that solve real problems.",
+  workflow: "Idea → Prototype → Test → Improve → Share",
 };
 ```
 
-I'm a **vocational technology student and developer** who enjoys working across the boundary between software and hardware.
+I enjoy working at the boundary between **software and hardware** — taking an idea, building a prototype, wiring the components together, and turning it into something people can actually use.
 
-I like taking an idea, building a prototype, connecting the components together, and turning it into something people can actually use.
+<br>
 
-My interests sit around:
-
-* Web applications & full-stack development
-* AI & Computer Vision
-* ESP32 / Arduino / embedded systems
-* IoT & automation
-* Networking & infrastructure
-* Educational technology & interactive applications
-
----
-
-## `what I build`
+## 🛠️ What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01` — Software
-
-Web applications, interactive systems, games, dashboards and developer tools.
-
-**Stack**
+### 💻 Software
+Web apps, interactive systems, games, dashboards and developer tools.
 
 `HTML` `CSS` `JavaScript` `TypeScript`
 `React` `Vite` `Tailwind` `PHP` `MySQL`
 
 </td>
-
 <td width="50%" valign="top">
 
-### `02` — AI / Computer Vision
-
+### 👁️ AI / Computer Vision
 Computer vision experiments and practical AI systems.
-
-**Working with**
 
 `Python` `OpenCV` `YOLO` `MediaPipe`
 `Face Recognition` `Image Processing`
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### `03` — IoT / Embedded
-
-Hardware prototypes that connect sensors, controllers and software.
-
-**Working with**
+### 🔌 IoT / Embedded
+Hardware prototypes connecting sensors, controllers and software.
 
 `ESP32` `Arduino` `Micro:bit`
 `Sensors` `Relay` `MQTT` `Telegram Bot`
 
 </td>
-
 <td width="50%" valign="top">
 
-### `04` — Networking
-
+### 🌐 Networking
 Hands-on network infrastructure and troubleshooting.
-
-**Experience**
 
 `LAN` `RJ45` `Access Point`
 `Network Design` `UDP` `Network Testing`
@@ -120,83 +82,29 @@ Hands-on network infrastructure and troubleshooting.
 </tr>
 </table>
 
----
+<br>
 
-## `featured projects`
+## 🚀 Featured Projects
 
-> A few projects that represent how I like to learn and build.
+| Project | Description | Focus |
+| :-- | :-- | :-- |
+| **SkillProof AI** | AI-powered platform that helps people prove what they can do through projects, evidence and practical skills. | `AI` `Web` `Portfolio` |
+| **Smart Farm / IoT** | Connected hardware for real-world problems: soil monitoring, environmental sensing and automatic control. | `ESP32` `IoT` `Automation` |
+| **Computer Vision** | Image processing, object detection, face recognition and automated visual analysis. | `Python` `OpenCV` `YOLO` |
+| **Math Match Ultimate** | Browser-based educational game with difficulty modes, rewards, achievements, themes and progression. | `JavaScript` `Gamification` |
+| **Portfolio** | A continuously evolving space for showcasing projects, experiments and development work. | `Web` `UI` `Animation` |
 
-### `SkillProof AI`
+<br>
 
-**AI-powered proof-of-capability platform**
-
-A concept focused on helping people demonstrate what they can actually do through projects, evidence and practical skills.
-
-**Focus:** `AI` `Web` `Portfolio` `Skills`
-
----
-
-### `Smart Farm / IoT Projects`
-
-**Connected hardware for real-world problems**
-
-Projects involving ESP32, environmental sensors, automation and remote monitoring.
-
-Examples include smart farming, soil monitoring and automatic control systems.
-
-**Focus:** `ESP32` `IoT` `Sensors` `Automation`
-
----
-
-### `Computer Vision Projects`
-
-**Teaching computers to understand visual information**
-
-Experiments and applications involving image processing, object detection, face recognition and automated visual analysis.
-
-**Focus:** `Python` `OpenCV` `YOLO` `Computer Vision`
-
----
-
-### `Math Match Ultimate`
-
-**A browser-based educational game**
-
-A learning-focused game with difficulty modes, rewards, achievements, themes and progression mechanics.
-
-**Focus:** `JavaScript` `Game Development` `Gamification`
-
----
-
-### `Portfolio`
-
-**My personal developer portfolio**
-
-A continuously evolving space for showcasing projects, experiments, certificates and development work.
-
-**Focus:** `Web Development` `UI` `Animation`
-
----
-
-## `tech stack`
+## ⚡ Tech Stack
 
 <div align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,php,react,nextjs,vite,tailwind,nodejs,express&perline=7" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,c,php" />
+<br>
 
-### Web
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express" />
-
-### AI / Systems
-
-<img src="https://skillicons.dev/icons?i=python,opencv,linux,ubuntu,arduino" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=opencv,arduino,linux,ubuntu,git,github,vscode,mysql&perline=8" />
 
 <br><br>
 
@@ -204,126 +112,63 @@ A continuously evolving space for showcasing projects, experiments, certificates
 
 </div>
 
----
+<br>
 
-## `currently`
+## 🎯 Currently
 
-```text
-BUILDING
-├── AI & Computer Vision projects
-├── IoT / ESP32 prototypes
-├── Web applications
-└── Open-source experiments
+| 🔨 Building | 📚 Learning | 🔭 Exploring |
+| :-- | :-- | :-- |
+| AI & Computer Vision projects | Computer Engineering | Edge AI |
+| IoT / ESP32 prototypes | Network Systems | Smart Agriculture |
+| Web applications | AI / Machine Learning | Automation |
+| Open-source experiments | Software Architecture | AI-powered developer tools |
 
-LEARNING
-├── Computer Engineering
-├── Network Systems
-├── Internet Infrastructure
-├── AI / Machine Learning
-└── Software Architecture
+<br>
 
-EXPLORING
-├── Edge AI
-├── Smart Agriculture
-├── Automation
-└── AI-powered developer tools
-```
+## 🧠 Engineering Mindset
 
----
+I don't just want to write code — I want to understand how the **whole system** works.
 
-## `engineering mindset`
-
-I don't want to only **write code**.
-
-I want to understand how the whole system works.
-
-```text
-             ┌──────────────┐
-             │     IDEA     │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   DESIGN     │
-             └──────┬───────┘
-                    ↓
-          ┌─────────┴─────────┐
-          ↓                   ↓
-     SOFTWARE              HARDWARE
-          │                   │
-          └─────────┬─────────┘
-                    ↓
-             ┌──────────────┐
-             │    TEST      │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   IMPROVE    │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │    SHARE     │
-             └──────────────┘
+```mermaid
+flowchart LR
+    A([Idea]) --> B[Design]
+    B --> C[Software]
+    B --> D[Hardware]
+    C --> E[Test]
+    D --> E
+    E --> F[Improve]
+    F --> G([Share])
+    F -.-> E
 ```
 
 The interesting part is usually **connecting everything together**.
 
----
+<br>
 
-## `achievements`
+## 📊 GitHub Stats
 
-* 🥇 Gold Medal — Intermediate Robotics Competition
-* Built and tested ESP32 / Arduino based prototypes
-* Designed and installed network layouts and access points
-* Worked on computer vision and image-processing projects
-* Developed educational games and interactive web applications
-* Created technical media and visual content
-* Participated in technology, leadership and analytical-thinking activities
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ertyu007&show_icons=true&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0&icon_color=2563EB&ring_color=2563EB" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ertyu007&layout=compact&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=E2E8F0" />
 
-## `github`
+</div>
+
+<br>
 
 <div align="center">
 
 <a href="https://github.com/ertyu007">
-  <img src="https://img.shields.io/badge/GitHub-ertyu007-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-ertyu007-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://github.com/ertyu007?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/View%20Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-> Building in public.  
-> Learning by making things.
+**Build → Break → Learn → Build again.**
 
-</div>
-
----
-
-## `connect`
-
-<div align="center">
-
-**Interested in technology, open source, AI, IoT or building something together?**
-
-<br>
-
-<a href="mailto:ertyualexs04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ertyualexs04%40gmail.com-black?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://www.tiktok.com/@ertyu0075">
-  <img src="https://img.shields.io/badge/TikTok-@ertyu0075-black?style=for-the-badge&logo=tiktok" />
-</a>
-
-<a href="https://www.youtube.com/@amazingwuji">
-  <img src="https://img.shields.io/badge/YouTube-@amazingwuji-black?style=for-the-badge&logo=youtube" />
-</a>
-
-<br><br>
-
-### `Build → Break → Learn → Build again.`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=100&section=footer" width="100%" />
 
 </div>
