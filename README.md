@@ -1,92 +1,63 @@
 <img src="assets/header.svg" alt="ertyu007" width="100%" />
 
-I like projects where code touches something physical: a webcam, a microphone, a sensor, a video frame. Most of what's below started as "can I even make this work?" and got rewritten at least once.
-
-Right now my time goes into three things: a Manim framework for vertical Thai explainer animations, tools that turn body movement and voice into computer input, and ESP32 hardware.
+I build tools I actually use, mostly Windows desktop apps and small web apps in Python. The biggest one is **Clipora**, a media converter that does everything on your own machine.
 
 <br>
 
-## Things I've built
+## Clipora
 
-### Animetion Studio v6
+**A free, open-source Windows app for converting video, extracting audio and splitting songs into stems. No ads, no account, nothing leaves your PC.**
 
-A custom framework on top of [Manim](https://www.manim.community/) for making vertical, phone-shaped educational animations in Thai.
+[Repository](https://github.com/ertyu007/media-toolkit-Open-source) · [Website](https://ertyu007.github.io/media-toolkit-Open-source/) · [Releases](https://github.com/ertyu007/media-toolkit-Open-source/releases)
 
-- Scenes are timed with a `beat()` helper
-- Thai font rendering and portrait layouts were the real fight: glyphs breaking, and horizontal layouts spilling out of a phone-width frame
-- Episodes so far: Ctrl+Z / Ctrl+Y explained as two stacks (`undo_redo_stack.py`), and OOP told through a game-character factory
-- Voiceover with free Thai TTS: `edge-tts`, voice `th-TH-PremwadeeNeural`
+- Paste a public link (via yt-dlp) or pick a local file, choose a format, press start
+- Video to MP4 (H.264/AAC) or MOV (ProRes 422, ready for After Effects), from 360p up to 4K
+- Audio out as MP3, M4A, WAV, FLAC or OPUS
+- **Stem separation** with Demucs, fully offline: vocals and music split into separate files
+- Cancel a job and it only cleans its own temp files; the original output stays until the new one succeeds
+- Thai paths, spaces and special characters all work
+- The installer bundles FFmpeg, yt-dlp and Deno, and every download is checksum-verified
 
-`Python` `Manim` `edge-tts` `CapCut`
-
-<br>
-
-### Exercise → Game Input
-
-Do the exercise, the game gets the keypress.
-
-MediaPipe Pose reads the webcam and turns sit-ups, arm curls and running in place into keyboard input, with an on-screen overlay. Built to pair with browser games and Roblox.
-
-`Python` `MediaPipe Pose` `OpenCV`
-
-<br>
-
-### Thai Voice Command App
-
-Say a wake word in Thai, then say what to open. Windows launches the program or website.
-
-Two stages: wake word first, command second, built on `speech_recognition`.
-
-`Python` `speech_recognition` `Windows`
-
-<br>
-
-### Daily Script Generator
-
-A content workflow for publishing about 30 clips a month.
-
-The first plan was big: Make.com, Gemini through AI Studio, LINE Messaging API alerts, PartyRock for scripts and covers. I kept the simple version, a single-widget generator, because the one I'd actually use every day beats the one that's impressive on a diagram.
-
-The planning side is a matrix:
+Shipping is automated. Pushing a tag does the rest:
 
 ```text
-6 topic pillars  ×  5 storytelling formats  =  30 clips
+git tag pc-v*  →  GitHub Actions  →  tests  →  Windows installer  →  SHA-256  →  Release
 ```
 
-`Make.com` `Gemini API` `LINE API` `PartyRock`
+`Python` `Tkinter` `FFmpeg` `yt-dlp` `Demucs` `Inno Setup` `GitHub Actions` · GPL-3.0 · 80+ commits
 
 <br>
 
-### Hardware
+## Bingo Creator AI
 
-ESP32, Arduino and Micro:bit prototypes: soil and environment monitoring, automatic control, remote access over MQTT, Telegram bot alerts. Also LAN layouts and access point installs.
+**Type a topic, get printable Thai bingo cards and a host sheet.**
 
-`ESP32` `Arduino` `Micro:bit` `MQTT` `Networking`
+[Repository](https://github.com/ertyu007/Bingo-webapp)
 
-<br>
+A Streamlit app where Groq's Llama 3.1 writes 25 Thai words for your topic (or you type your own). It exports player cards as PDF in 3×3, 4×4 or 5×5 with a proper Thai font, plus a separate caller sheet for whoever runs the game. Colours, the free space and the logo are all customisable.
 
-Also around: **SkillProof AI** (a platform for proving skills through real projects) and **Math Match Ultimate** (a browser learning game with achievements and themes).
+Split into `core/ai_assistant.py` (prompting and cleaning the word list) and `core/bingo_engine.py` (PDF layout), with the UI kept in `app_web.py`.
 
-<br>
-
-## Lately
-
-- A 10-clip series on Transformer architecture, around 5 seconds each, with scripts, voiceover and text overlays planned per clip
-- Windows repair commands as short-form material: `taskkill`, `sfc /scannow`, `DISM`
+`Python` `Streamlit` `Groq API` `PDF` · MIT
 
 <br>
 
-## How I work
+## Small stuff
 
-1. Get the ugly version running first.
-2. Pick the thing I'll actually use over the thing that looks clever.
-3. Rewrite after it breaks.
+[Batch utilities](https://github.com/ertyu007/tiktok-code_ep_bat): Windows batch scripts, starting with a downloads-folder cleaner.
+
+<br>
+
+## Next up
+
+- Batch queue for Clipora, so many files can run in one go
+- Signed installers to cut down SmartScreen warnings (the pipeline already supports it)
 
 <br>
 
 ## Toolbox
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,c,arduino,linux,git,github,vscode&theme=dark" alt="toolbox" />
+<img src="https://skillicons.dev/icons?i=python,powershell,windows,git,github,githubactions,vscode&theme=dark" alt="toolbox" />
 
 <br>
 
@@ -95,5 +66,7 @@ Also around: **SkillProof AI** (a platform for proving skills through real proje
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ertyu007/ertyu007/output/snake-light.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/ertyu007/ertyu007/output/snake-dark.svg" />
 </picture>
+
+<br>
 
 <sub>More in [repositories](https://github.com/ertyu007?tab=repositories).</sub>
