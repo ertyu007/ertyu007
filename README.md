@@ -90,4 +90,10 @@ Also around: **SkillProof AI** (a platform for proving skills through real proje
 
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ertyu007/ertyu007/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ertyu007/ertyu007/output/snake-light.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ertyu007/ertyu007/output/snake-dark.svg" />
+</picture>
+
 <sub>More in [repositories](https://github.com/ertyu007?tab=repositories).</sub>
